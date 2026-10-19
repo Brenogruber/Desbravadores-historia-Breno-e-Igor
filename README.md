@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Desbravadores — apresentação histórica
 
-## Getting Started
+Site estático em HTML, CSS e JavaScript sobre o Clube de Desbravadores e os Camporis da Divisão Sul-Americana.
 
-First, run the development server:
+## Como abrir
+
+Abra `index.html` no navegador, ou sirva a pasta do projeto:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+python3 -m http.server 8080
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Depois acesse [http://localhost:8080](http://localhost:8080).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Onde editar
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Arquivo | O que contém |
+| --- | --- |
+| `index.html` | Página principal |
+| `camporis/*.html` | Página de cada edição |
+| `css/estilos.css` | Visual |
+| `js/interacao.js` | Menu, filtro e fotos ampliadas |
+| `images/` | Fotografias |
 
-## Learn More
+## O que a página não afirma
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- A história do clube na página segue a origem histórica oficial da Divisão, a partir de 1950.
+- Não houve Campori da Divisão Sul-Americana em 2024. A edição seguinte anunciada é o VI Campori, em Barretos, em janeiro de 2027.
+- Tema, data ou público sem fonte segura aparecem como “A confirmar”.
+- As fotografias são ilustrativas, do Unsplash. Não são registros oficiais de Campori, uniforme ou bandeira.
+# Desbravadores---Breno-e-Igor
