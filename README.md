@@ -28,4 +28,3 @@ Depois acesse [http://localhost:8080](http://localhost:8080).
 - Não houve Campori da Divisão Sul-Americana em 2024. A edição seguinte anunciada é o VI Campori, em Barretos, em janeiro de 2027.
 - Tema, data ou público sem fonte segura aparecem como “A confirmar”.
 - As fotografias são ilustrativas, do Unsplash. Não são registros oficiais de Campori, uniforme ou bandeira.
-# Desbravadores---Breno-e-Igor
